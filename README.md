@@ -1,5 +1,5 @@
-
-
+![image](https://github.com/user-attachments/assets/529c73cb-d9c6-4d7e-8b3c-61977cc27bb8)
+![image](https://github.com/user-attachments/assets/e98cfba6-0b23-41a7-8aed-ddac41fbdb72)
 
 GOK Lily 레플리카 PCB입니다.
 
