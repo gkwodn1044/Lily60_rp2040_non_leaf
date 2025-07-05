@@ -15537,7 +15537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hjcustom:C_0402_1005Metric_noref"
+		(property "Footprint" "hjcustom:C_0402_1005Metric"
 			(at 156.21 185.42 0)
 			(effects
 				(font
@@ -16666,7 +16666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hjcustom:C_0402_1005Metric_noref"
+		(property "Footprint" "hjcustom:C_0402_1005Metric"
 			(at 53.34 142.24 0)
 			(effects
 				(font
@@ -19033,7 +19033,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hjcustom:C_0402_1005Metric_noref"
+		(property "Footprint" "hjcustom:C_0402_1005Metric"
 			(at 34.29 96.52 0)
 			(effects
 				(font
@@ -21469,7 +21469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hjcustom:C_0402_1005Metric_noref"
+		(property "Footprint" "hjcustom:C_0402_1005Metric"
 			(at 39.37 101.6 0)
 			(effects
 				(font
